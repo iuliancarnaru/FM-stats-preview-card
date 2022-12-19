@@ -29,7 +29,7 @@ body {
 }
 
 .card {
-  margin: 11.7rem auto;
+  margin: 17.7rem auto;
   max-width: 111rem;
   background-color: var(--color-card-background);
   border-radius: 8px;
