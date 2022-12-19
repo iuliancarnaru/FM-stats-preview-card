@@ -62,21 +62,27 @@ body {
 }
 
 .card__content {
-  padding: 7.1rem;
+  padding: 7.1rem 7.1rem 5.9rem;
   display: flex;
   flex-direction: column;
   gap: 2.5rem;
 }
 
-@media screen and (max-width: 65.75em) {
+@media screen and (max-width: 57.75em) {
   .card__content {
-    padding: 5.1rem;
+    padding: 5.1rem 5.1rem 3.9rem;
   }
 }
 
-@media screen and (max-width: 60.9em) {
+@media screen and (max-width: 47.75em) {
   .card__content {
-    padding: 3.1rem;
+    padding: 3.9rem;
+  }
+}
+
+@media screen and (max-width: 44.37em) {
+  .card__content {
+    padding: 3rem;
   }
 }
 
