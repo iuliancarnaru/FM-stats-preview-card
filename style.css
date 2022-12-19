@@ -47,7 +47,6 @@ body {
 }
 
 .card__image::before {
-  filter: brightness(50%);
   position: absolute;
   top: 0;
   left: 0;
